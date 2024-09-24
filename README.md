@@ -3,7 +3,7 @@
 **Description**
 KantoDex is your go-to tool for searching the original 151 Pokémon. Whether you're a casual fan or a seasoned trainer, KantoDex provides a comprehensive database of Pokémon from the Kanto region.
 
-**Features:**
+### Features:
 * **Search by:** Name, Pokédex number, or type
 * **Powered by:** Google Gemini and Pokemon.com for a robust and informative database
 * **Built with:** HTML, CSS, and JavaScript for a user-friendly interface
