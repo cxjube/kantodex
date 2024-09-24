@@ -8,37 +8,37 @@ KantoDex is your go-to tool for searching the original 151 Pokémon. Whether you
 * **Powered by:** Google Gemini and Pokemon.com for a robust and informative database
 * **Built with:** HTML, CSS, and JavaScript for a user-friendly interface
 
-**How it Works:**
+### How it Works:
 1. **Data:** The core data for KantoDex was generated using Google Gemini's advanced language capabilities and the Official Pokémon Website.
 2. **Interface:** A simple and intuitive interface, built with HTML, CSS, and JavaScript, allows users to easily search for Pokémon.
 3. **Search:** Users can input a Pokémon's name, Pokédex number, or type to retrieve detailed information.
 
-**Getting Started:**
+### Getting Started:
 * **Clone the repository:** `git clone https://your-repository-url`
 * **Install dependencies:** `npm install`
 * **Run the development server:** `npm start`
 
-**Technology Stack:**
+### Technology Stack:
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Google Gemini (for data generation)
 
-**Future Improvements:**
+### Future Improvements:
 * **Make the Enter button works:** For searching without clicking.
 * **Create Responsive layouts:** For different users on different devices.
 * **Expand the Pokédex:** Add Pokémon from other regions.
 * **Implement a dark mode:** For a more immersive experience.
 * **Add more search filters:** Such as generation, abilities, or weaknesses.
 
-**Contributing:**
+### Contributing:
 Feel free to contribute to the project by:
 * **Reporting issues:** Open an issue on GitHub.
 * **Suggesting features:** Create a feature request.
 * **Submitting pull requests:** Contribute code changes.
 
-**License:**
+### License:
  All rights reserved to Copyright © Nintendo and The Pokémon Company.
 
-**Acknowledgements:**
+### Acknowledgements:
 * Google Gemini for providing the foundation for this project.
 * The Pokémon community for inspiring this project.
 * Nintendo and The Pokémon Company for all the content.
