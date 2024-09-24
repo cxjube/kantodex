@@ -23,7 +23,6 @@ KantoDex is your go-to tool for searching the original 151 Pokémon. Whether you
 * **Backend:** Google Gemini (for data generation)
 
 ### Future Improvements:
-* **Make the Enter button works:** For searching without clicking.
 * **Create Responsive layouts:** For different users on different devices.
 * **Expand the Pokédex:** Add Pokémon from other regions.
 * **Implement a dark mode:** For a more immersive experience.

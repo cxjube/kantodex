@@ -63,6 +63,7 @@ section button {
     color: #F5F7F8; /* Cor do texto do botão */
     font-size: 1rem; /* Tamanho da fonte */
     cursor: pointer; /* Muda o cursor para indicar que é clicável */
+    width: 8rem;
 }
 
 /* Adiciona efeito hover ao botão de pesquisa */
