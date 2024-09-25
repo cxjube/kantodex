@@ -1,6 +1,6 @@
 # KantoDex: Your Ultimate Kanto Pokémon Companion
 
-**Description**
+**Description:**
 KantoDex is your go-to tool for searching the original 151 Pokémon. Whether you're a casual fan or a seasoned trainer, KantoDex provides a comprehensive database of Pokémon from the Kanto region.
 
 ### Features:
